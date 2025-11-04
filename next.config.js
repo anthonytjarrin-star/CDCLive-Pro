@@ -1,2 +1,1 @@
 module.exports = { reactStrictMode: true };
-
